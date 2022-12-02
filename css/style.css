@@ -1,0 +1,37 @@
+/*body{background-color: blue;}
+*/
+.navbar li{font-size: 18px;}
+.co{width: 30px;
+height: 30px;
+padding: auto;
+border-radius: 50%;
+background-color: white;}
+.back{background-attachment: fixed;
+background-size: cover;
+height: 300px;}
+
+#accordion a:checed i{transform: rotate(180deg);
+} 
+#accordion a.collapsed i{transform: rotate(-180deg);}
+
+
+.back1{background-image: url(../images/b2.jpg);}
+.back2{background-image: url(../images/b3.png);}
+footer{margin-bottom: -25px;}
+footer .e{padding-bottom: 20px;}
+.carousel-item img{width: 100%;
+height: 100%;}
+
+
+.carousel-inner h1{text-shadow: 2px 2px black;}
+.carousel-inner .carousel-caption{background-color: rgba(250,250,250, .1);
+border-radius: 8px;}
+.card-header:hover{background-color: darkgrey;
+}
+/*.card-header:focus{background-color: green;}*//
+
+
+
+
+
+
